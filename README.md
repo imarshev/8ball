@@ -12,6 +12,5 @@ Answers are given in the format "yes", "no", "absolutely", "bad chances", "quest
 2. Go to the program directory and run it:
 ```
 $ cd myapp
-    
 $ ruby 8ball.rb
 ```
