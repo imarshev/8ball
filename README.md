@@ -14,6 +14,6 @@ git clone https://github.com/imarshev/8ball.rb.git
 ```
 3. Go to the program directory and run it:
 ```
-$ cd myapp
+$ cd directory/app
 $ ruby 8ball.rb
 ```
