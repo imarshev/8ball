@@ -1,13 +1,17 @@
 # 8ball.rb
-Консольная программа-шутка. Алгоритм работы: 
+Console joke program. Written in ruby. Flow:
 
-1. Программа приветствует пользователя и предлагает задать вопрос
-2. Пользователь задаёт вопрос
-3. программа возвращает случайный ответ
+1. The program welcomes the user and offers to ask a question
+2. User asks a question
+3. The program returns a random response
 
-Ответы даются в формате «да», «нет», «абсолютно точно», «плохие шансы», «вопрос не ясен», и т. д. Всего 20 вариантов ответов
+Answers are given in the format "yes", "no", "absolutely", "bad chances", "question is not clear", etc. There are 20 possible answers in total
 
-# Запуск программы: 
-1. Скачать программу
-2. Перейти в директорию программы: 
+# Getting Started: 
+1. Download program
+2. Go to the program directory and run it:
+```
 $ cd myapp
+    
+$ ruby 8ball.rb
+```
