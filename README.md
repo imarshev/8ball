@@ -8,8 +8,11 @@ Console joke program. Written in ruby. Flow:
 Answers are given in the format "yes", "no", "absolutely", "bad chances", "question is not clear", etc. There are 20 possible answers in total
 
 # Getting Started: 
-1. Download program
-2. Go to the program directory and run it:
+1. Copy the program from the repository:
+```
+git clone https://github.com/imarshev/8ball.rb.git
+```
+3. Go to the program directory and run it:
 ```
 $ cd myapp
 $ ruby 8ball.rb
