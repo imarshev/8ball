@@ -1,18 +1,18 @@
-# 8ball.rb
-Console joke program. Written in ruby. Flow:
+# 8ball
+Шуточная консольная программа на Ruby, имитирующая работу [настоящей игрушки](https://ru.wikipedia.org/wiki/Magic_8_ball). Алгоритм работы:
 
-1. The program welcomes the user and offers to ask a question
-2. User asks a question
-3. The program returns a random response
+1. Программа приветствует пользователя и предлагает задать вопрос
+2. Пользователь задает вопрос
+3. Программа возвращает случайный ответ
 
-Answers are given in the format "yes", "no", "absolutely", "bad chances", "question is not clear", etc. There are 20 possible answers in total
+Ответы даются в формате да», «нет», «абсолютно точно», «плохие шансы», «вопрос не ясен», и т. д. Всего 20 вариантов ответов.
 
 # Getting Started: 
-1. Copy the program from the repository:
+1. Скопируйте программу из репозитория:
 ```
 git clone https://github.com/imarshev/8ball.rb.git
 ```
-3. Go to the program directory and run it:
+3. Перейдите в папку программы и запустите её:
 ```
 $ cd directory/app
 $ ruby 8ball.rb
