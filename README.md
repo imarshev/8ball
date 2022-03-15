@@ -12,7 +12,7 @@
 ```
 git clone https://github.com/imarshev/8ball.git
 ```
-3. Перейдите в папку программы и запустите её:
+2. Перейдите в папку программы и запустите её:
 ```
 $ cd directory/app
 $ ruby 8ball.rb
