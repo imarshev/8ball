@@ -10,7 +10,7 @@
 # Getting Started: 
 1. Скопируйте программу из репозитория:
 ```
-git clone https://github.com/imarshev/8ball.rb.git
+git clone https://github.com/imarshev/8ball.git
 ```
 3. Перейдите в папку программы и запустите её:
 ```
