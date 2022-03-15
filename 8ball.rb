@@ -9,4 +9,3 @@ puts greatings
 puts
 sleep 2
 puts answer
-
