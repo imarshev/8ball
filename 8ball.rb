@@ -8,4 +8,5 @@ gets
 puts greatings
 puts
 sleep 2
-puts answers
+puts answer
+
