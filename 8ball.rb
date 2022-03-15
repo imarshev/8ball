@@ -1,4 +1,4 @@
-texts_folder = Dir[File.join(__dir__, "data", "*txt")]
+texts_folder = Dir[File.join(__dir__, "data")]
 
 greatings = File.readlines(File.join(texts_folder, "greatings.txt")).sample
 answer = File.readlines(File.join(texts_folder, "answers.txt")).sample
